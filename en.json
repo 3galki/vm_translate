@@ -1,8 +1,7 @@
 {
-    "Name": "VManager",
+    "Имя пользователя": {
+        "Name": "VMmanager"
+    },
     "Title": "My favorite project VMmanager",
-    "New": "One more new mesasge",
-    "There {count, plural, =0{is} one{is} other{are}} {count, plural, =0{} one{a} other{several}} {count, plural, =0{nothing} one{thing} other{things}}": {
-        "Plural": "one"
-    }
+    "New": "One more new mesasge"
 }
